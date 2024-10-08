@@ -1,6 +1,6 @@
 # Culinary-API
  
-# FoodExplorer(website Logo Name)
+## FoodExplorer(website Logo Name)
 
 ## Description
 FoodExplorer is a web application that allows users to discover a wide variety of recipes using the MealDB API. Users can search for recipes, view details, and explore new dishes based on their culinary interests.
